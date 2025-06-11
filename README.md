@@ -5,7 +5,7 @@ Hi 👋, I'm Themba Manyama
 A passionate full stack developer
 
 Work
-🔭 I’m currently working as a full stack developer projects
+🔭 I’m currently working as Assistance Teacher (ICT)
 🌱 I’m currently learning PHP
 Frameworks, courses etc.
 
